@@ -1,0 +1,12 @@
+models\Funcionario.class
+views\TelaPrincipal$1.class
+views\VizualizarFuncionario.class
+views\TelaPrincipal.class
+presenters\TelaPrincipalPresenter.class
+views\AdicionarFuncionario.class
+presenters\VizualizarFuncionarioPresenter.class
+views\VizualizarFuncionario$1.class
+views\AdicionarFuncionario$1.class
+models\Bonus.class
+models\FaltaAoTrabalho.class
+presenters\AdicionarFuncionarioPresenter.class

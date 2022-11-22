@@ -1,0 +1,13 @@
+
+Nome: Fulano da Silva
+ID: 1.0
+Salario Base: R$300.0
+Idade: 22.0
+Cargo: Programador
+Graduação: Mestrado
+Data de Admissão: Sat Oct 10 00:00:00 BRT 2020
+O Funcionario tem direito aos seguintes bonus:
+Assiduidade Graduação 
+O Bonus total desses bonus é: 
+215
+
